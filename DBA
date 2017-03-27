@@ -1,0 +1,17 @@
+(1) Creates and maintains all databases required for development, testing, 
+education and production usage.
+
+(2) Performs the capacity planning required to create and maintain the 
+databases. The DBA works closely with system administration staff because 
+computers often have applications or tools on them in addition to the Oracle 
+Databases.
+
+(3) Performs ongoing tuning of the database instances.
+
+(4) Install new versions of the Oracle RDBMS and its tools and any other tools
+that access the Oracle database. 
+
+(5) Plans and implements backup and recovery of the Oracle database.
+
+(6) Controls migrations of programs, database changes, reference data changes 
+and menu changes through the development life cycle.
